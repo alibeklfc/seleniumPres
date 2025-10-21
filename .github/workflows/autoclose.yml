@@ -1,6 +1,5 @@
 name: Close Inactive Issues
 on:
-  workflow_dispatch:
   issues:
     types: [labeled]
 
